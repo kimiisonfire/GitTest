@@ -12,6 +12,8 @@ public class Hello {
 		
 		// 주석 또달았다
 		System.out.println("third commit");
+		
+		// gitcopy에서 수정해볼게요
 	}
 
 }
