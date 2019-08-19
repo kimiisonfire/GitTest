@@ -10,6 +10,8 @@ public class Hello {
 		// 주석 달았다
 		String str = "git 배우는 중 룰루루";
 		
+		// 주석 또달았다
+		System.out.println("third commit");
 	}
 
 }
